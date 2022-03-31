@@ -34,9 +34,9 @@ button{
     height: 50px;
 }
 
-.content{
-    width: 500px;
-    margin: 0 auto;
+.social{
+    float: right;
+    padding-right: 15%;
 }
 
 footer{
