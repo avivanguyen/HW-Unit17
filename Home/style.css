@@ -1,0 +1,14 @@
+nav{
+    align-self: center;
+}
+
+.flower{
+    background-image: url(https://unsplash.com/photos/iMdsjoiftZo); 
+    height: 500; 
+    width: 500;
+}
+.h2{
+    font-family: 'Aldrich', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Open Sans', sans-serif;
+}
